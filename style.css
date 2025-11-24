@@ -1,0 +1,39 @@
+   body{
+            background-color: bisque;
+        }
+
+        p{
+            background-color: green;
+        }
+        .parrafo{
+            background-color: yellow;
+        }
+        #texto3, .price{
+            background-color: blueviolet;
+        }
+
+        p{
+            background-color: white;
+        }
+
+        .grande {
+            height: 200px;
+            background-color: aqua;
+            color: red;
+            color: black;
+            color: yellow;
+            
+        }
+
+     a   {
+  background-color: #4665df;
+  color: #fff;
+  padding: 20px 40px;
+  border-radius: 12px;
+  margin: 30px 10px;
+}
+
+a:hover{
+    background-color: #FFF;
+  color: #4665df;
+}
